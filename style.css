@@ -3,7 +3,7 @@
  }
  
  body {
-     background-color: black;
+     background-color: gray;
      font-family: 'Alegreya Sans', sans-serif;
  }
  
@@ -14,7 +14,7 @@
  }
  
  h1, h2, h3, h4, h5, h6 {
-     font-family: 'Luckiest Guy', cursive;
+     font-family: "Noto Sans TC", cursive;
      margin: 0;
  }
  
@@ -68,7 +68,7 @@
  main > aside {
      float: left;
      width: 20%;
-     background-color: rgb(255, 187, 0);
+     background-color: blue;
      padding: 20px;
  }
  
